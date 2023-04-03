@@ -1,3 +1,8 @@
 # react-rtzen
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-fbcu8y)
+to run the app
+
+1. clone the repo
+2. checkout to masster branch <code>git chcekout master</code>
+3. install dependencies <code>npm install</code>
+4. start project <code>npm start</code>
